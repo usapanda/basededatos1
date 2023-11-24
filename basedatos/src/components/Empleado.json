@@ -1,0 +1,102 @@
+[
+  {
+    "fullNameCode": "John Doe - 12345",
+    "dependency": "IT Department",
+    "position": "Software Engineer",
+    "hireDate": "01/01/2023",
+    "epsId": 1,
+    "pensionContribution": "10%",
+    "salary": 60000,
+    "novelties": "No special novelties"
+  },
+  {
+    "fullNameCode": "Alice Smith - 67890",
+    "dependency": "HR Department",
+    "position": "HR Manager",
+    "hireDate": "02/15/2023",
+    "epsId": 1,
+    "pensionContribution": "12%",
+    "salary": 75000,
+    "novelties": "Employee of the Month"
+  },
+  {
+    "fullNameCode": "Bob Johnson - 13579",
+    "dependency": "Finance Department",
+    "position": "Accountant",
+    "hireDate": "03/10/2023",
+    "epsId": 1,
+    "pensionContribution": "8%",
+    "salary": 65000,
+    "novelties": "Quarterly Bonus"
+  },
+  {
+    "fullNameCode": "Emma White - 24680",
+    "dependency": "Marketing Department",
+    "position": 1,
+    "hireDate": "04/05/2023",
+    "epsId": "Marketing Wellness",
+    "pensionContribution": "9%",
+    "salary": 70000,
+    "novelties": "New Product Launch"
+  },
+  {
+    "fullNameCode": "David Brown - 97531",
+    "dependency": "Legal Department",
+    "position": "Legal Counsel",
+    "hireDate": "05/20/2023",
+    "epsId": 1,
+    "pensionContribution": "11%",
+    "salary": 80000,
+    "novelties": "Successful Litigation"
+  },
+  {
+    "fullNameCode": "David Brown - 97531",
+    "dependency": "Legal Department",
+    "position": "Legal Counsel",
+    "hireDate": "05/20/2023",
+    "epsId": 1,
+    "pensionContribution": "11%",
+    "salary": 80000,
+    "novelties": "Successful Litigation"
+  },
+  {
+    "fullNameCode": "Emily Johnson - 83724",
+    "dependency": "HR Department",
+    "position": "HR Manager",
+    "hireDate": "06/15/2023",
+    "epsId": 1,
+    "pensionContribution": "10%",
+    "salary": 75000,
+    "novelties": "Employee Engagement Program"
+  },
+  {
+    "fullNameCode": "Michael Smith - 74029",
+    "dependency": "Finance Department",
+    "position": "Financial Analyst",
+    "hireDate": "04/12/2023",
+    "epsId": 1,
+    "pensionContribution": "12%",
+    "salary": 85000,
+    "novelties": "Budget Optimization"
+  },
+  {
+    "fullNameCode": "Sophia Rodriguez - 62148",
+    "dependency": "Marketing Department",
+    "position": 1,
+    "hireDate": "07/08/2023",
+    "epsId": 1,
+    "pensionContribution": "9%",
+    "salary": 70000,
+    "novelties": "Successful Campaign Launch"
+  },
+  {
+    "fullNameCode": "Ethan Turner - 50356",
+    "dependency": "IT Department",
+    "position": "IT Manager",
+    "hireDate": "03/05/2023",
+    "epsId": 1,
+    "pensionContribution": "11%",
+    "salary": 90000,
+    "novelties": "Implementation of New Security Protocols"
+  }
+]
